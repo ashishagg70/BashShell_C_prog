@@ -1,0 +1,17 @@
+How to Run:
+1. run 'make' command to compile and build executable
+2. execute 'myShell' to run
+3. run 'make clean' to clean all compliled file and executable
+
+
+
+References:
+https://c-for-dummies.com/blog/?p=1112
+https://linuxhint.com/exec_linux_system_call_c/#:~:text=In%20execl()%20system%20function,command%20and%20prints%20the%20output.
+https://www.geeksforgeeks.org/
+https://www.programiz.com/c-programming/examples/read-file
+https://www.cs.miami.edu/home/geoff/Courses/CSC521-04F/Content/UNIXProgramming/UNIXSystemCalls.shtml
+https://stackoverflow.com/
+http://www.sarathlakshman.com/2012/09/24/implementation-overview-of-redirection-and-pipe-operators-in-shell
+https://solarianprogrammer.com/2019/04/03/c-programming-read-file-lines-fgets-getline-implement-portable-getline/
+http://www.iitk.ac.in/LDP/LDP/lpg/node11.html#:~:text=To%20create%20a%20simple%20pipe,be%20used%20for%20the%20pipeline.
